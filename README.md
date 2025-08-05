@@ -1,7 +1,7 @@
 # Wuzzle
 
 Wuzzle is a Wordle-style iOS game built using **Swift** and **UIKit**.  
-The app features a custom on-screen keyboard, MVVM architecture, dynamic color feedback, and a clean, responsive UI.
+The app features a custom on-screen keyboard, dynamic color feedback, and a clean, responsive UI.
 
 ## Features
 
