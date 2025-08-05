@@ -17,10 +17,18 @@ The app features a custom on-screen keyboard, MVVM architecture, dynamic color f
 - UIKit
 - Xcode
 - Storyboard
-- MVVM architecture
+
+## Screenshot
+
+<div align="center">
+  <img src="assets/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-08-04%20at%2020.32.17.png" alt="Game Screenshot 1" width="250"/>
+  <img src="assets/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-08-04%20at%2020.33.22.png" alt="Game Screenshot 2" width="250"/>
+</div>
+
 
 ## Getting Started
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/Jaison-Abraham/Wuzzle.git
+
